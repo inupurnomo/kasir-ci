@@ -1,3 +1,11 @@
+# Authentication
+## Admin
+- ID : 101
+- Password : indonesia
+## Kasir
+- ID : 102
+- Password : indonesia
+
 # PROGRESS
 - ADMIN Page (80%)
 - KASIR Page (70%)
